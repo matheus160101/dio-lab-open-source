@@ -1,4 +1,4 @@
-<img align="left" padding="20px" alt="Foto de perfil de Tauan Gabriel" src=https://avatars.githubusercontent.com/u/69830638?v=4&size=64>
+
 <h1> 
   <a href="https://www.linkedin.com/in//" style="color: #f00 !important; text-decoration: none; color: inherit;">
     <span>Matheus Henrique da Silveira</span>
